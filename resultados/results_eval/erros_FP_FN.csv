@@ -1,0 +1,706 @@
+﻿isic_id,patient_id,erro,p_mal,diagnosis_1,diagnosis_3,diagnosis_confirm_type,anatom_site_1,sex,age_approx,dermoscopic_type
+ISIC_0467617,IP_4288676,FN,0.0059547765995375,Malignant,Melanoma in situ,histopathology,Lower extremity,female,55,contact non-polarized
+ISIC_0703440,IP_6877747,FN,0.0084552341140806,Malignant,Melanoma Invasive,histopathology,Trunk,female,65,contact non-polarized
+ISIC_0971824,IP_4064850,FN,0.0692564118653535,Malignant,"Melanoma, NOS",histopathology,Upper extremity,female,45,
+ISIC_0546506,IP_1278277,FN,0.0896067414432764,Malignant,Melanoma in situ,histopathology,Upper extremity,male,60,
+ISIC_1637595,IP_5308560,FN,0.1182942576706409,Malignant,Melanoma in situ,histopathology,Head and neck,male,55,
+ISIC_2076526,IP_1952634,FN,0.148467905819416,Malignant,Melanoma Invasive,histopathology,Lower extremity,female,50,
+ISIC_0178428,IP_1952634,FN,0.1616298668086528,Malignant,Melanoma in situ,histopathology,Lower extremity,female,55,
+ISIC_0294150,IP_8324517,FN,0.1915071159601211,Malignant,"Melanoma, NOS",histopathology,Lower extremity,male,50,
+ISIC_0681019,IP_9497736,FN,0.2226390726864338,Malignant,Melanoma Invasive,histopathology,Upper extremity,female,45,
+ISIC_1460169,IP_3118804,FN,0.2487455494701862,Malignant,Melanoma in situ,histopathology,Head and neck,male,55,
+ISIC_1330381,IP_8528869,FN,0.2855147309601307,Malignant,"Melanoma, NOS",histopathology,Lower extremity,male,30,
+ISIC_1429763,IP_5529572,FN,0.3567804768681526,Malignant,"Melanoma, NOS",histopathology,Head and neck,male,45,
+ISIC_1287205,IP_5888410,FN,0.3598208986222744,Malignant,Melanoma Invasive,histopathology,Trunk,male,55,contact polarized
+ISIC_1398333,IP_9925945,FN,0.3644217923283577,Malignant,Melanoma in situ,histopathology,,male,50,contact polarized
+ISIC_1564663,IP_2105369,FN,0.3684149831533432,Malignant,Melanoma in situ,histopathology,Lower extremity,male,50,
+ISIC_0287325,IP_3118804,FN,0.3715125173330307,Malignant,Melanoma in situ,histopathology,Trunk,male,60,
+ISIC_2098553,IP_3118804,FN,0.3742379322648048,Malignant,Melanoma in situ,histopathology,Trunk,male,55,
+ISIC_0695851,IP_2849250,FP,0.3582443073391914,Benign,(vazio),single image expert consensus,Upper extremity,female,40,
+ISIC_2030721,IP_8528869,FP,0.3589293286204338,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_1972390,IP_0018862,FP,0.3597101345658302,Benign,Nevus,single image expert consensus,Upper extremity,female,30,contact polarized
+ISIC_1939694,IP_3080124,FP,0.3604981601238251,Benign,Nevus,single image expert consensus,Trunk,male,35,contact polarized
+ISIC_1674326,IP_9375865,FP,0.3608724288642406,Benign,(vazio),serial imaging showing no change,Trunk,female,25,
+ISIC_1299043,IP_6256912,FP,0.3615819588303566,Benign,(vazio),single image expert consensus,Trunk,male,35,
+ISIC_1390156,IP_3836316,FP,0.3623517379164696,Benign,(vazio),serial imaging showing no change,Trunk,male,20,
+ISIC_1589060,IP_7746230,FP,0.3628245182335377,Benign,(vazio),serial imaging showing no change,Trunk,male,60,contact non-polarized
+ISIC_0887966,IP_3348879,FP,0.3628744259476661,Benign,Nevus,serial imaging showing no change,Lower extremity,male,50,contact polarized
+ISIC_0371907,IP_0589375,FP,0.3639106824994087,Benign,Nevus,single image expert consensus,Head and neck,female,55,contact polarized
+ISIC_1428303,IP_3579794,FP,0.3644048161804676,Benign,(vazio),serial imaging showing no change,,male,70,contact non-polarized
+ISIC_1215786,IP_8233673,FP,0.3649121075868606,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_1966654,IP_8257005,FP,0.3651155531406402,Benign,(vazio),single image expert consensus,Upper extremity,female,60,
+ISIC_1181351,IP_0957210,FP,0.3654990568757057,Benign,Nevus,serial imaging showing no change,Head and neck,male,35,contact polarized
+ISIC_1615785,IP_2685205,FP,0.3656581193208694,Benign,(vazio),serial imaging showing no change,Trunk,female,60,
+ISIC_0280382,IP_8073827,FP,0.366429716348648,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_1398911,IP_4072087,FP,0.3681120127439499,Benign,(vazio),single image expert consensus,Lower extremity,male,55,
+ISIC_0322514,IP_9834034,FP,0.36887226998806,Benign,(vazio),serial imaging showing no change,Trunk,male,25,
+ISIC_1706606,IP_8324517,FP,0.3694537505507469,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_1813039,IP_4120771,FP,0.3709705397486686,Benign,(vazio),serial imaging showing no change,Lower extremity,female,45,
+ISIC_0261904,IP_4890115,FP,0.3721191734075546,Benign,(vazio),single image expert consensus,Trunk,male,35,
+ISIC_1960896,IP_6498654,FP,0.372581847012043,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_1081390,IP_2852390,FP,0.3728062808513641,Benign,(vazio),serial imaging showing no change,Lower extremity,male,25,
+ISIC_0701776,IP_3473283,FP,0.3736299499869346,Benign,Nevus,serial imaging showing no change,,female,35,contact polarized
+ISIC_1010386,IP_8586594,FP,0.374062605202198,Benign,(vazio),serial imaging showing no change,Trunk,male,60,
+ISIC_0561202,IP_4120771,FP,0.3744098916649818,Benign,(vazio),serial imaging showing no change,Lower extremity,female,50,
+ISIC_0207197,IP_1230798,FP,0.3750345855951309,Benign,Nevus,serial imaging showing no change,Head and neck,male,40,contact polarized
+ISIC_0457530,IP_7416051,FP,0.3756336197257042,Benign,Nevus,single image expert consensus,Trunk,female,60,contact polarized
+ISIC_1738247,IP_6632577,FP,0.3759190365672111,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0757171,IP_6256912,FP,0.3759253323078155,Benign,(vazio),single image expert consensus,Trunk,male,35,
+ISIC_0437081,IP_1799218,FP,0.3774452582001686,Benign,Solar lentigo,single image expert consensus,Head and neck,male,85,contact polarized
+ISIC_0385463,IP_4665747,FP,0.3774544075131416,Benign,(vazio),single image expert consensus,Upper extremity,female,80,
+ISIC_0703903,IP_4890115,FP,0.3776326775550842,Benign,(vazio),single image expert consensus,Trunk,male,35,
+ISIC_1837240,IP_6736744,FP,0.377853199839592,Benign,Nevus,single image expert consensus,Lower extremity,female,50,contact polarized
+ISIC_0704243,IP_2849250,FP,0.3779938369989395,Benign,(vazio),single image expert consensus,Lower extremity,female,40,
+ISIC_1208095,IP_9375865,FP,0.3784613907337188,Benign,(vazio),serial imaging showing no change,Trunk,female,30,
+ISIC_1586360,IP_8233673,FP,0.3787428066134453,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_1225148,IP_0463575,FP,0.3787833303213119,Benign,Nevus,serial imaging showing no change,,female,40,contact polarized
+ISIC_0479755,IP_6669242,FP,0.379097431898117,Benign,(vazio),serial imaging showing no change,Lower extremity,female,20,
+ISIC_2147183,IP_2953161,FP,0.3791888430714607,Benign,(vazio),single image expert consensus,Upper extremity,male,60,
+ISIC_1750274,IP_8324517,FP,0.3801384568214416,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_1332916,IP_1792727,FP,0.3810138925909996,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_1514638,IP_8324517,FP,0.383338525891304,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_2081166,IP_7782715,FP,0.3846255615353584,Benign,(vazio),single image expert consensus,Trunk,male,40,
+ISIC_1749542,IP_9175926,FP,0.3847297877073288,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_1336814,IP_2834911,FP,0.3847467377781868,Benign,(vazio),single image expert consensus,Lower extremity,male,40,
+ISIC_0720319,IP_4551986,FP,0.3850877434015274,Benign,Nevus,serial imaging showing no change,Lower extremity,male,50,contact polarized
+ISIC_0664524,IP_6071771,FP,0.38587137311697,Benign,Nevus,serial imaging showing no change,,female,60,contact polarized
+ISIC_0434253,IP_6424138,FP,0.3862688168883323,Benign,Nevus,single image expert consensus,Trunk,male,35,contact polarized
+ISIC_0542744,IP_8324517,FP,0.3862781822681427,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_1631155,IP_9592704,FP,0.3866753056645393,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_1352021,IP_1299649,FP,0.3869704604148865,Benign,(vazio),single image expert consensus,Head and neck,male,65,
+ISIC_1183370,IP_4438996,FP,0.3870603665709495,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0728055,IP_1482236,FP,0.3870741724967956,Benign,(vazio),serial imaging showing no change,Trunk,male,30,
+ISIC_1287301,IP_0366016,FP,0.3872714266180992,Benign,Nevus,single image expert consensus,Trunk,male,50,contact polarized
+ISIC_2146675,IP_2372697,FP,0.3875080645084381,Benign,Nevus,serial imaging showing no change,,male,65,contact polarized
+ISIC_0457494,IP_8331698,FP,0.3879434987902641,Benign,(vazio),serial imaging showing no change,Trunk,male,60,
+ISIC_1553968,IP_7732657,FP,0.38895034044981,Benign,Lentigo NOS,histopathology,Upper extremity,male,75,
+ISIC_1673959,IP_6669242,FP,0.3889935612678528,Benign,(vazio),serial imaging showing no change,Upper extremity,female,20,
+ISIC_1089351,IP_7822788,FP,0.3890376910567283,Benign,(vazio),histopathology,Head and neck,female,35,
+ISIC_0596005,IP_0854419,FP,0.3892578519880771,Benign,Nevus,single image expert consensus,Trunk,male,40,contact polarized
+ISIC_0963642,IP_5181037,FP,0.3893217220902443,Benign,(vazio),serial imaging showing no change,Upper extremity,female,30,contact non-polarized
+ISIC_1462390,IP_2396948,FP,0.3893448710441589,Benign,(vazio),serial imaging showing no change,Lower extremity,female,40,
+ISIC_0407220,IP_4438996,FP,0.3896037936210632,Benign,(vazio),serial imaging showing no change,,male,50,
+ISIC_1876605,IP_9022601,FP,0.3901840969920158,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0841028,IP_6357805,FP,0.3903425708413124,Benign,(vazio),serial imaging showing no change,Lower extremity,male,30,
+ISIC_1700495,IP_2474819,FP,0.3909553289413452,Benign,Nevus,single image expert consensus,Lower extremity,male,40,contact polarized
+ISIC_1075408,IP_8696724,FP,0.3910606354475021,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_1859623,IP_3678754,FP,0.3910741209983825,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_0501199,IP_7013057,FP,0.3911919444799423,Benign,(vazio),single image expert consensus,Lower extremity,male,50,
+ISIC_1065536,IP_8830475,FP,0.3912395313382149,Benign,Nevus,single image expert consensus,Trunk,male,30,contact polarized
+ISIC_2006348,IP_0239883,FP,0.3913444504141807,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0097719,IP_3331830,FP,0.391464926302433,Benign,(vazio),single image expert consensus,Trunk,male,45,
+ISIC_1197153,IP_4934995,FP,0.3917762562632561,Benign,Nevus,serial imaging showing no change,,male,65,contact polarized
+ISIC_1487812,IP_4942161,FP,0.3918080851435661,Benign,(vazio),serial imaging showing no change,Lower extremity,male,30,
+ISIC_1750738,IP_3098198,FP,0.3928587809205055,Benign,Nevus,serial imaging showing no change,,male,70,contact polarized
+ISIC_0607693,IP_4310581,FP,0.392905943095684,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0570796,IP_8528869,FP,0.3933625370264053,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_1338474,IP_2759801,FP,0.393637090921402,Benign,Nevus,serial imaging showing no change,Lower extremity,female,75,contact polarized
+ISIC_0558899,IP_9592704,FP,0.3943436667323112,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_0898069,IP_3756446,FP,0.3946936950087547,Benign,Nevus,single image expert consensus,Trunk,male,40,contact polarized
+ISIC_0229266,IP_3001765,FP,0.3954834565520286,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_1064649,IP_9168687,FP,0.3955873250961303,Benign,(vazio),single image expert consensus,Trunk,female,35,
+ISIC_1282378,IP_2130753,FP,0.395675465464592,Benign,(vazio),serial imaging showing no change,Upper extremity,male,60,
+ISIC_0148210,IP_6357805,FP,0.3966765254735946,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_1448952,IP_8638843,FP,0.3972900658845901,Benign,Nevus,serial imaging showing no change,Lower extremity,female,70,contact polarized
+ISIC_0619695,IP_5439840,FP,0.3974488750100136,Benign,Nevus,serial imaging showing no change,Upper extremity,female,50,contact polarized
+ISIC_1782165,IP_8225825,FP,0.3982371166348457,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0969318,IP_6106837,FP,0.399572417140007,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_0525213,IP_7950338,FP,0.3997028395533561,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_1950638,IP_4417891,FP,0.4002340883016586,Benign,Nevus,single image expert consensus,Trunk,female,50,contact polarized
+ISIC_1554262,IP_2496585,FP,0.4002647623419761,Benign,(vazio),single image expert consensus,Trunk,male,60,
+ISIC_0486436,IP_3426128,FP,0.4003075137734413,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_1569193,IP_0912606,FP,0.4003491997718811,Benign,Nevus,serial imaging showing no change,,male,45,contact polarized
+ISIC_0879986,IP_8077619,FP,0.4003697410225868,Benign,(vazio),single image expert consensus,Lower extremity,female,55,
+ISIC_0931921,IP_8221268,FP,0.4006975218653679,Benign,(vazio),serial imaging showing no change,Trunk,male,65,
+ISIC_0473489,IP_0912606,FP,0.4007003307342529,Benign,Nevus,serial imaging showing no change,,male,45,contact polarized
+ISIC_1441157,IP_3385011,FP,0.4011198431253433,Benign,Nevus,single image expert consensus,Lower extremity,female,50,contact polarized
+ISIC_2037167,IP_6434214,FP,0.4012784585356712,Benign,Nevus,serial imaging showing no change,Upper extremity,female,60,contact polarized
+ISIC_0722065,IP_8634279,FP,0.4014680609107017,Benign,Nevus,single image expert consensus,Trunk,male,70,contact polarized
+ISIC_0454916,IP_2376101,FP,0.4018368646502495,Benign,Nevus,serial imaging showing no change,,male,40,contact polarized
+ISIC_1328108,IP_6469176,FP,0.4019506275653839,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_0539046,IP_5405578,FP,0.4021196141839027,Benign,(vazio),serial imaging showing no change,Trunk,male,25,
+ISIC_1939295,IP_8324517,FP,0.4028525575995445,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_0958433,IP_8806373,FP,0.4030266106128692,Benign,Nevus,serial imaging showing no change,,male,70,contact polarized
+ISIC_0794617,IP_0408742,FP,0.4033684730529785,Benign,Nevus,single image expert consensus,Trunk,female,45,contact polarized
+ISIC_0542899,IP_6357805,FP,0.4033685326576233,Benign,(vazio),histopathology,Head and neck,male,40,
+ISIC_1551763,IP_2396948,FP,0.4034498408436775,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,
+ISIC_0225894,IP_5405578,FP,0.4041786640882492,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_1407049,IP_1299649,FP,0.4043520279228687,Benign,Lentigo NOS,histopathology,Head and neck,male,65,
+ISIC_0307411,IP_3426128,FP,0.4049523398280144,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_1509856,IP_7846536,FP,0.4052211791276932,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1658310,IP_6632577,FP,0.4059946462512016,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_1464282,IP_6512879,FP,0.4060297086834907,Benign,(vazio),serial imaging showing no change,Upper extremity,male,40,
+ISIC_1852113,IP_1633458,FP,0.4061837717890739,Benign,(vazio),serial imaging showing no change,Trunk,female,35,
+ISIC_1222096,IP_1233113,FP,0.407549537718296,Benign,(vazio),single image expert consensus,Lower extremity,female,55,
+ISIC_0932157,IP_9220677,FP,0.4080610796809196,Benign,Nevus,serial imaging showing no change,,male,40,contact polarized
+ISIC_1164704,IP_5775254,FP,0.4083689600229263,Benign,Nevus,serial imaging showing no change,Lower extremity,male,80,contact polarized
+ISIC_0976336,IP_9276991,FP,0.4085630923509598,Benign,Nevus,serial imaging showing no change,Lower extremity,male,55,contact polarized
+ISIC_1682998,IP_2852390,FP,0.4088217839598655,Benign,(vazio),serial imaging showing no change,Trunk,male,25,
+ISIC_1914789,IP_8391817,FP,0.4093139842152595,Benign,(vazio),serial imaging showing no change,Head and neck,male,60,contact non-polarized
+ISIC_0193289,IP_4196998,FP,0.4093305319547653,Benign,(vazio),single image expert consensus,Trunk,male,50,
+ISIC_1592464,IP_0750066,FP,0.4096377342939377,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0338118,IP_9413745,FP,0.4104380086064338,Benign,Nevus,single image expert consensus,Trunk,male,40,contact polarized
+ISIC_1148772,IP_1749003,FP,0.4104485362768173,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_1016571,IP_5439840,FP,0.4105400666594505,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_2117237,IP_0326123,FP,0.4106532633304596,Benign,(vazio),single image expert consensus,Head and neck,male,40,
+ISIC_2020304,IP_6413175,FP,0.410703994333744,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_1545466,IP_4942161,FP,0.4114272072911262,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0517673,IP_6834084,FP,0.4119738563895225,Benign,Nevus,single image expert consensus,Trunk,male,45,contact polarized
+ISIC_0074618,IP_4438996,FP,0.4126302376389503,Benign,(vazio),serial imaging showing no change,Lower extremity,male,50,
+ISIC_1399260,IP_2396948,FP,0.4127184301614761,Benign,(vazio),serial imaging showing no change,Head and neck,female,45,
+ISIC_0389392,IP_9275298,FP,0.4128753244876861,Benign,Nevus,serial imaging showing no change,Lower extremity,female,40,contact polarized
+ISIC_0620379,IP_1146714,FP,0.413162387907505,Benign,(vazio),single image expert consensus,Upper extremity,female,45,
+ISIC_0682057,IP_9207271,FP,0.4138034656643867,Benign,Nevus,single image expert consensus,Trunk,male,60,contact polarized
+ISIC_2052216,IP_4934995,FP,0.4138307571411133,Benign,Nevus,serial imaging showing no change,,male,65,contact polarized
+ISIC_2112305,IP_1020771,FP,0.4138347133994102,Benign,Nevus,serial imaging showing no change,,male,45,contact polarized
+ISIC_2057540,IP_8311340,FP,0.4140189811587333,Benign,Nevus,serial imaging showing no change,,female,65,contact polarized
+ISIC_0206261,IP_1285953,FP,0.4145973175764084,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,contact non-polarized
+ISIC_1742142,IP_6106837,FP,0.4146265313029289,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_0258717,IP_8592242,FP,0.4147964864969253,Benign,Nevus,serial imaging showing no change,Upper extremity,female,70,contact polarized
+ISIC_0839368,IP_7670145,FP,0.4150159135460853,Benign,(vazio),serial imaging showing no change,Head and neck,male,70,
+ISIC_2114050,IP_3678754,FP,0.415265716612339,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_1754913,IP_7473498,FP,0.4159319624304771,Benign,(vazio),single image expert consensus,Trunk,male,60,
+ISIC_1288766,IP_3305115,FP,0.4161563292145729,Benign,(vazio),single image expert consensus,Trunk,male,50,
+ISIC_0695000,IP_2277592,FP,0.4162265136837959,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_0964240,IP_3516172,FP,0.4167045578360557,Benign,Nevus,single image expert consensus,Trunk,male,50,contact polarized
+ISIC_2045072,IP_8386774,FP,0.4178549125790596,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0334179,IP_8180321,FP,0.418109729886055,Benign,Nevus,single image expert consensus,Trunk,male,15,contact polarized
+ISIC_0171865,IP_0225141,FP,0.4189342930912971,Benign,(vazio),serial imaging showing no change,,male,65,contact non-polarized
+ISIC_0076801,IP_3110660,FP,0.4201960265636444,Benign,Nevus,serial imaging showing no change,Upper extremity,male,45,contact polarized
+ISIC_0786322,IP_2685205,FP,0.4203618243336677,Benign,(vazio),serial imaging showing no change,Lower extremity,female,60,
+ISIC_0840661,IP_6512879,FP,0.4204243272542953,Benign,(vazio),serial imaging showing no change,Upper extremity,male,35,
+ISIC_1693702,IP_9918026,FP,0.4205274432897568,Benign,Nevus,histopathology,Trunk,male,65,
+ISIC_0436727,IP_4667226,FP,0.4211823493242264,Benign,(vazio),serial imaging showing no change,Trunk,female,15,
+ISIC_1667112,IP_8324517,FP,0.4212104603648186,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_1134064,IP_4869668,FP,0.4216709807515144,Benign,(vazio),single image expert consensus,Upper extremity,female,45,
+ISIC_0717635,IP_5378875,FP,0.4217983558773994,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_0328687,IP_4191395,FP,0.4221668839454651,Benign,Nevus,serial imaging showing no change,,female,35,contact polarized
+ISIC_1090575,IP_0629846,FP,0.4223030768334865,Benign,Nevus,single image expert consensus,Head and neck,male,25,contact polarized
+ISIC_0161963,IP_6425310,FP,0.4224060028791427,Benign,Nevus,single image expert consensus,Upper extremity,male,35,contact polarized
+ISIC_1345725,IP_8351759,FP,0.4226710647344589,Benign,(vazio),serial imaging showing no change,Lower extremity,male,65,contact non-polarized
+ISIC_1503527,IP_1733953,FP,0.4228225350379944,Benign,Nevus,single image expert consensus,Trunk,male,55,contact polarized
+ISIC_1442489,IP_2852390,FP,0.4228717163205147,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0410649,IP_6512879,FP,0.4229477867484092,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_0743739,IP_6205909,FP,0.4236757308244705,Benign,Nevus,single image expert consensus,Lower extremity,male,30,contact polarized
+ISIC_2061556,IP_4965147,FP,0.423714704811573,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,
+ISIC_2082074,IP_7689061,FP,0.4237378165125847,Benign,Nevus,serial imaging showing no change,,male,40,contact polarized
+ISIC_1496854,IP_9887407,FP,0.4238356724381447,Benign,(vazio),serial imaging showing no change,Trunk,female,30,
+ISIC_0401679,IP_8073827,FP,0.4242056831717491,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_0488846,IP_8682413,FP,0.4242423474788666,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_0656308,IP_2856445,FP,0.4244682416319847,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_1715664,IP_0703816,FP,0.4245503470301628,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_0375431,IP_0791728,FP,0.4245772063732147,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_2121078,IP_5249864,FP,0.4246809408068657,Benign,(vazio),serial imaging showing no change,Lower extremity,male,75,
+ISIC_1438103,IP_2160072,FP,0.4249972999095917,Benign,(vazio),serial imaging showing no change,Trunk,female,30,
+ISIC_0969096,IP_8221268,FP,0.4251182153820991,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1427970,IP_5989034,FP,0.4251745566725731,Benign,(vazio),single image expert consensus,Lower extremity,male,45,
+ISIC_0165230,IP_9168687,FP,0.4260640293359756,Benign,(vazio),single image expert consensus,Trunk,female,35,
+ISIC_0710840,IP_0015264,FP,0.4269390702247619,Benign,Nevus,single image expert consensus,Trunk,male,50,contact polarized
+ISIC_0949297,IP_1285953,FP,0.4270866438746452,Benign,(vazio),serial imaging showing no change,Trunk,male,55,contact non-polarized
+ISIC_0777077,IP_6381994,FP,0.4274856895208359,Benign,(vazio),serial imaging showing no change,Trunk,male,70,
+ISIC_0892179,IP_9035128,FP,0.4279947057366371,Benign,Nevus,serial imaging showing no change,,female,25,contact polarized
+ISIC_1292306,IP_4310723,FP,0.4283611848950386,Benign,(vazio),serial imaging showing no change,Trunk,male,55,contact non-polarized
+ISIC_1909382,IP_1749003,FP,0.4288132563233375,Benign,Nevus,serial imaging showing no change,Lower extremity,female,45,contact polarized
+ISIC_1994651,IP_9275298,FP,0.4289603754878044,Benign,Nevus,serial imaging showing no change,,female,35,contact polarized
+ISIC_0343131,IP_6625134,FP,0.4290370941162109,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_1684260,IP_5240771,FP,0.4290998727083206,Benign,(vazio),serial imaging showing no change,Lower extremity,female,40,
+ISIC_0951865,IP_7403013,FP,0.4294567033648491,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_0175014,IP_3309441,FP,0.4298163130879402,Benign,(vazio),serial imaging showing no change,Upper extremity,female,30,
+ISIC_1263999,IP_7425702,FP,0.430067129433155,Benign,Nevus,single image expert consensus,Trunk,male,55,contact polarized
+ISIC_0608105,IP_4942161,FP,0.4303212612867355,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_0582447,IP_4896989,FP,0.4304057955741882,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_1389671,IP_2856445,FP,0.4309632554650306,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_1228746,IP_5989034,FP,0.431034006178379,Benign,(vazio),single image expert consensus,Head and neck,male,40,
+ISIC_0213848,IP_3098198,FP,0.4310575053095817,Benign,Nevus,serial imaging showing no change,,male,70,contact polarized
+ISIC_0338587,IP_3571173,FP,0.4323375821113586,Benign,Nevus,serial imaging showing no change,,male,20,contact polarized
+ISIC_1854733,IP_4438996,FP,0.4328701496124267,Benign,(vazio),serial imaging showing no change,Upper extremity,male,50,
+ISIC_1842457,IP_1247756,FP,0.4334160685539245,Benign,(vazio),serial imaging showing no change,Upper extremity,female,65,
+ISIC_0813352,IP_5038795,FP,0.4334941357374191,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_0600649,IP_5240771,FP,0.433601476252079,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_0182213,IP_4665747,FP,0.4343499317765236,Benign,(vazio),single image expert consensus,Head and neck,female,80,
+ISIC_1930434,IP_6002204,FP,0.4350534826517105,Benign,(vazio),serial imaging showing no change,Trunk,male,70,
+ISIC_0758568,IP_2093462,FP,0.4353806748986244,Benign,Nevus,single image expert consensus,Trunk,female,40,contact polarized
+ISIC_0808861,IP_0326123,FP,0.4355867877602577,Benign,Nevus,histopathology,Head and neck,male,45,
+ISIC_0545219,IP_2245284,FP,0.4356636181473732,Benign,(vazio),serial imaging showing no change,Head and neck,female,35,
+ISIC_1296518,IP_1482236,FP,0.4359364882111549,Benign,(vazio),serial imaging showing no change,Lower extremity,male,30,
+ISIC_0243937,IP_7426723,FP,0.4360546693205833,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_1644228,IP_3678754,FP,0.4361702054738998,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_1847600,IP_9035128,FP,0.4362287148833275,Benign,Nevus,serial imaging showing no change,Lower extremity,female,30,contact polarized
+ISIC_0195744,IP_3144663,FP,0.4363684058189392,Benign,Nevus,serial imaging showing no change,,female,40,contact polarized
+ISIC_1262649,IP_9475853,FP,0.4363793209195137,Benign,Nevus,serial imaging showing no change,Upper extremity,female,45,contact polarized
+ISIC_1415022,IP_6106837,FP,0.4366209581494331,Benign,Nevus,serial imaging showing no change,Upper extremity,male,50,contact polarized
+ISIC_1136261,IP_1083433,FP,0.4366232678294182,Benign,Nevus,single image expert consensus,Trunk,female,55,contact polarized
+ISIC_0958029,IP_2816395,FP,0.436701700091362,Benign,Nevus,serial imaging showing no change,Upper extremity,male,60,contact polarized
+ISIC_1455951,IP_2496585,FP,0.4370132163167,Benign,(vazio),single image expert consensus,Trunk,male,60,
+ISIC_1624465,IP_3154056,FP,0.4371219500899315,Benign,Nevus,serial imaging showing no change,Upper extremity,male,55,contact polarized
+ISIC_0192184,IP_8324517,FP,0.4386616498231888,Benign,(vazio),serial imaging showing no change,Upper extremity,male,55,
+ISIC_0321906,IP_1206313,FP,0.4393467828631401,Benign,Nevus,single image expert consensus,Trunk,male,75,contact polarized
+ISIC_1331088,IP_2205052,FP,0.4394886493682861,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_1380210,IP_3462831,FP,0.4397987723350525,Benign,(vazio),serial imaging showing no change,Trunk,female,30,
+ISIC_1133253,IP_7452679,FP,0.4398300722241401,Benign,Nevus,serial imaging showing no change,Lower extremity,male,65,contact polarized
+ISIC_1978029,IP_0299921,FP,0.4401731193065643,Benign,(vazio),serial imaging showing no change,Upper extremity,male,55,
+ISIC_1856864,IP_1792727,FP,0.4409464597702026,Benign,(vazio),serial imaging showing no change,Lower extremity,male,50,
+ISIC_1406000,IP_3144663,FP,0.4410433545708656,Benign,Nevus,serial imaging showing no change,,female,35,contact polarized
+ISIC_1058272,IP_9642293,FP,0.4411591291427612,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_0612337,IP_9475853,FP,0.4414512515068054,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_0678034,IP_4152479,FP,0.4415749013423919,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1149593,IP_4310581,FP,0.4416364207863807,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_0165928,IP_3836316,FP,0.4423422813415527,Benign,(vazio),serial imaging showing no change,Trunk,male,25,
+ISIC_0348342,IP_0457570,FP,0.4426586627960205,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_1701367,IP_6362917,FP,0.4427377507090568,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0468644,IP_2277592,FP,0.4429556354880333,Benign,(vazio),serial imaging showing no change,Trunk,female,30,
+ISIC_1984907,IP_6888971,FP,0.4433418661355972,Benign,Nevus,serial imaging showing no change,,male,45,contact polarized
+ISIC_1001684,IP_4665747,FP,0.4435973465442657,Benign,(vazio),single image expert consensus,Lower extremity,female,80,
+ISIC_0884023,IP_7689061,FP,0.444215290248394,Benign,Nevus,serial imaging showing no change,,male,40,contact polarized
+ISIC_1899951,IP_8578442,FP,0.4451102465391159,Benign,Nevus,single image expert consensus,Upper extremity,male,50,contact polarized
+ISIC_1603921,IP_1685042,FP,0.4452856034040451,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_0776824,IP_0791728,FP,0.4458323568105697,Benign,(vazio),serial imaging showing no change,Head and neck,male,45,
+ISIC_1010648,IP_9494634,FP,0.4459068030118942,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_0284441,IP_4104927,FP,0.4464153572916984,Benign,Nevus,single image expert consensus,Trunk,male,65,contact polarized
+ISIC_0660925,IP_4162057,FP,0.4469630420207977,Benign,(vazio),histopathology,Head and neck,male,35,
+ISIC_0775584,IP_1926247,FP,0.4471002295613289,Benign,(vazio),serial imaging showing no change,Lower extremity,female,35,
+ISIC_1706501,IP_1281389,FP,0.4471661001443863,Benign,(vazio),serial imaging showing no change,Upper extremity,female,70,
+ISIC_0197182,IP_8180321,FP,0.4471840932965278,Benign,Nevus,single image expert consensus,Trunk,male,15,contact polarized
+ISIC_1046759,IP_1285953,FP,0.44727823138237,Benign,(vazio),serial imaging showing no change,Head and neck,male,55,contact non-polarized
+ISIC_1749366,IP_8233673,FP,0.447293259203434,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1220972,IP_4152479,FP,0.4474403709173202,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_0309503,IP_2625193,FP,0.4490602314472198,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,
+ISIC_1374185,IP_2625193,FP,0.4492530673742294,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,
+ISIC_1841758,IP_2448188,FP,0.4493625238537788,Benign,(vazio),single image expert consensus,,female,30,
+ISIC_0977528,IP_8324517,FP,0.4497565850615501,Benign,(vazio),serial imaging showing no change,Upper extremity,male,55,
+ISIC_2058581,IP_1020771,FP,0.450006790459156,Benign,Nevus,serial imaging showing no change,Upper extremity,male,50,contact polarized
+ISIC_0959864,IP_4942161,FP,0.4501568675041199,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_1512287,IP_5439840,FP,0.4506837725639343,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0403198,IP_3462831,FP,0.4511973261833191,Benign,(vazio),serial imaging showing no change,Upper extremity,female,40,
+ISIC_1488723,IP_3678754,FP,0.4516179785132408,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_0286688,IP_1020771,FP,0.4516192898154259,Benign,Nevus,serial imaging showing no change,Upper extremity,male,45,contact polarized
+ISIC_1241336,IP_8586594,FP,0.4518769457936287,Benign,(vazio),serial imaging showing no change,Upper extremity,male,55,
+ISIC_1202656,IP_3176063,FP,0.4519740641117096,Benign,Nevus,histopathology,Lower extremity,female,35,
+ISIC_0280827,IP_0791728,FP,0.4525742307305336,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_0920023,IP_9475853,FP,0.4534828811883926,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_0701187,IP_4438996,FP,0.4535281956195831,Benign,(vazio),serial imaging showing no change,Lower extremity,male,50,
+ISIC_0282486,IP_9887407,FP,0.453662745654583,Benign,(vazio),serial imaging showing no change,Upper extremity,female,35,
+ISIC_0842398,IP_8528869,FP,0.4540261477231979,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_0998993,IP_9736506,FP,0.4540669471025467,Benign,Nevus,single image expert consensus,Trunk,female,85,contact polarized
+ISIC_1071730,IP_1582706,FP,0.4543856307864189,Benign,Nevus,single image expert consensus,Upper extremity,female,70,contact polarized
+ISIC_1061205,IP_6519789,FP,0.4547545462846756,Benign,Nevus,single image expert consensus,Trunk,male,40,contact polarized
+ISIC_1642210,IP_5775254,FP,0.455067478120327,Benign,Nevus,histopathology,,male,85,contact polarized
+ISIC_1558004,IP_1067842,FP,0.4552711620926857,Benign,Nevus,serial imaging showing no change,Lower extremity,female,60,contact polarized
+ISIC_1799089,IP_2397236,FP,0.4556971341371536,Benign,(vazio),serial imaging showing no change,Upper extremity,male,25,
+ISIC_0931223,IP_9225429,FP,0.4558917582035064,Benign,(vazio),single image expert consensus,Trunk,female,25,
+ISIC_1069268,IP_7854138,FP,0.4563792422413826,Benign,(vazio),serial imaging showing no change,Lower extremity,female,35,
+ISIC_0771788,IP_8404233,FP,0.4563803374767303,Benign,Nevus,histopathology,Upper extremity,female,35,
+ISIC_0695255,IP_0721426,FP,0.4570707380771637,Benign,(vazio),serial imaging showing no change,Lower extremity,male,65,contact non-polarized
+ISIC_0963700,IP_3872865,FP,0.45713721960783,Benign,Nevus,serial imaging showing no change,Upper extremity,male,80,contact polarized
+ISIC_0749073,IP_7732657,FP,0.4575248956680298,Benign,Lichen planus like keratosis,histopathology,Trunk,male,70,
+ISIC_0436298,IP_0957210,FP,0.4578600972890854,Benign,Nevus,serial imaging showing no change,,male,35,contact polarized
+ISIC_1469194,IP_4667226,FP,0.4579414501786232,Benign,(vazio),serial imaging showing no change,Upper extremity,female,10,
+ISIC_1131265,IP_6888971,FP,0.4591025337576866,Benign,Nevus,serial imaging showing no change,,male,45,contact polarized
+ISIC_0930476,IP_2842163,FP,0.459115169942379,Benign,(vazio),serial imaging showing no change,Upper extremity,male,25,
+ISIC_2044484,IP_8910763,FP,0.4594122171401977,Benign,Nevus,single image expert consensus,Lower extremity,female,70,contact polarized
+ISIC_0216447,IP_4123511,FP,0.4599619954824447,Benign,Solar lentigo,histopathology,Head and neck,male,80,
+ISIC_0653761,IP_5775254,FP,0.4601137936115265,Benign,Nevus,serial imaging showing no change,,male,80,contact polarized
+ISIC_1352715,IP_4942161,FP,0.4608331173658371,Benign,(vazio),serial imaging showing no change,Upper extremity,male,40,
+ISIC_0979085,IP_6888971,FP,0.4611025005578995,Benign,Nevus,serial imaging showing no change,Lower extremity,male,50,contact polarized
+ISIC_1577307,IP_1020771,FP,0.4613451659679413,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_1063585,IP_2164818,FP,0.4614472612738609,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_1268457,IP_5529572,FP,0.4618267565965652,Benign,Nevus,histopathology,Trunk,male,50,
+ISIC_0241566,IP_2852390,FP,0.4625269770622253,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_0216203,IP_3776394,FP,0.4626296162605285,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_0307004,IP_3001765,FP,0.4628678560256958,Benign,(vazio),serial imaging showing no change,Trunk,male,30,
+ISIC_1439030,IP_8221268,FP,0.462882824242115,Benign,(vazio),serial imaging showing no change,Upper extremity,male,65,
+ISIC_0235505,IP_1247756,FP,0.4636774137616157,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_1499779,IP_0239883,FP,0.4640079736709595,Benign,Nevus,serial imaging showing no change,Upper extremity,female,50,contact polarized
+ISIC_0966701,IP_8890402,FP,0.4642144441604614,Benign,Nevus,serial imaging showing no change,Upper extremity,female,50,contact polarized
+ISIC_1521112,IP_9925945,FP,0.4643999114632606,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_1589895,IP_5152884,FP,0.4644491598010063,Benign,Nevus,histopathology,Trunk,male,70,
+ISIC_2085532,IP_3462831,FP,0.4647845402359962,Benign,(vazio),serial imaging showing no change,Upper extremity,female,25,
+ISIC_1964724,IP_6148415,FP,0.4650674909353256,Benign,Nevus,histopathology,Trunk,female,45,
+ISIC_1769691,IP_3756446,FP,0.4650855958461761,Benign,Nevus,single image expert consensus,Trunk,male,40,contact polarized
+ISIC_0462120,IP_4271334,FP,0.4653135240077972,Benign,(vazio),serial imaging showing no change,Lower extremity,female,35,
+ISIC_0450552,IP_0750066,FP,0.4655137658119201,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_1748369,IP_2164818,FP,0.465658850967884,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_1972102,IP_8172526,FP,0.4656687006354332,Benign,(vazio),single image expert consensus,Trunk,male,70,
+ISIC_1401389,IP_4663281,FP,0.4658460542559623,Benign,Nevus,single image expert consensus,Trunk,female,35,contact polarized
+ISIC_2072231,IP_8268880,FP,0.4659162685275078,Benign,Nevus,single image expert consensus,Trunk,female,25,contact polarized
+ISIC_0285491,IP_6106837,FP,0.4661214128136635,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_1461703,IP_3678754,FP,0.4669241234660148,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1590307,IP_1792727,FP,0.4669332951307297,Benign,(vazio),serial imaging showing no change,Lower extremity,male,50,
+ISIC_0165617,IP_9824454,FP,0.467102088034153,Benign,Nevus,serial imaging showing no change,Lower extremity,male,40,contact polarized
+ISIC_1007680,IP_4172315,FP,0.4673244059085846,Benign,Nevus,histopathology,Trunk,female,45,
+ISIC_0834674,IP_0957210,FP,0.4675279557704925,Benign,Nevus,serial imaging showing no change,Lower extremity,male,35,contact polarized
+ISIC_1409994,IP_9265726,FP,0.4677645862102508,Benign,Nevus,serial imaging showing no change,,male,75,contact polarized
+ISIC_0610325,IP_0239883,FP,0.4678119644522667,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_0197860,IP_5868052,FP,0.467877946794033,Benign,Nevus,serial imaging showing no change,Lower extremity,male,45,contact polarized
+ISIC_0676272,IP_4328240,FP,0.4681998416781425,Benign,(vazio),serial imaging showing no change,Head and neck,male,70,contact non-polarized
+ISIC_0343283,IP_6488213,FP,0.4693904817104339,Benign,(vazio),serial imaging showing no change,Upper extremity,female,55,
+ISIC_0317285,IP_4896989,FP,0.4694697335362434,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1217400,IP_6398288,FP,0.4695381000638008,Benign,(vazio),serial imaging showing no change,Lower extremity,female,45,
+ISIC_1958365,IP_0683265,FP,0.4698216021060943,Benign,(vazio),serial imaging showing no change,Lower extremity,female,55,
+ISIC_0662288,IP_1247756,FP,0.4699823185801506,Benign,(vazio),serial imaging showing no change,Lower extremity,female,65,
+ISIC_0210915,IP_0953239,FP,0.4704754948616028,Benign,(vazio),serial imaging showing no change,Trunk,male,30,
+ISIC_1948461,IP_4058630,FP,0.4706188514828682,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_0649394,IP_2160072,FP,0.4707398414611816,Benign,(vazio),serial imaging showing no change,Trunk,female,30,
+ISIC_1408400,IP_9834034,FP,0.4711549952626228,Benign,(vazio),serial imaging showing no change,,male,35,
+ISIC_1420424,IP_4064594,FP,0.4715776890516281,Benign,(vazio),serial imaging showing no change,Head and neck,male,70,contact non-polarized
+ISIC_1097111,IP_5439840,FP,0.4716842100024223,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_0951713,IP_7441053,FP,0.4717846885323524,Benign,Nevus,serial imaging showing no change,,male,45,contact polarized
+ISIC_2086396,IP_2852390,FP,0.4718620777130127,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_0262492,IP_0862319,FP,0.4723789691925049,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_1455340,IP_4438996,FP,0.4724668711423874,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1862706,IP_5030964,FP,0.4727682620286941,Benign,Nevus,serial imaging showing no change,,male,75,contact polarized
+ISIC_0960568,IP_0957210,FP,0.4733374714851379,Benign,Nevus,serial imaging showing no change,Lower extremity,male,40,contact polarized
+ISIC_1554000,IP_1663752,FP,0.473611481487751,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_1754946,IP_3612483,FP,0.4736741632223129,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_0764739,IP_4270640,FP,0.4737672284245491,Benign,(vazio),serial imaging showing no change,Trunk,male,60,
+ISIC_0406137,IP_3426128,FP,0.473902627825737,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_1713289,IP_5341127,FP,0.4744381681084633,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_1274178,IP_1663752,FP,0.4745060727000236,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1226325,IP_3001765,FP,0.4745883047580719,Benign,(vazio),serial imaging showing no change,Upper extremity,male,30,
+ISIC_0917843,IP_9935831,FP,0.4747615903615951,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1100351,IP_3001765,FP,0.4749752059578895,Benign,(vazio),serial imaging showing no change,Trunk,male,30,
+ISIC_0669360,IP_4573011,FP,0.4750204086303711,Benign,(vazio),histopathology,Lower extremity,male,70,
+ISIC_2143813,IP_0957210,FP,0.4757552593946457,Benign,Nevus,serial imaging showing no change,,male,40,contact polarized
+ISIC_0786267,IP_9265726,FP,0.4758077710866928,Benign,Nevus,serial imaging showing no change,,male,70,contact polarized
+ISIC_1066239,IP_8890402,FP,0.4762582704424858,Benign,Nevus,serial imaging showing no change,,female,55,contact polarized
+ISIC_2144820,IP_4934995,FP,0.4764083623886108,Benign,Nevus,serial imaging showing no change,,male,70,contact polarized
+ISIC_0223463,IP_4390015,FP,0.4768268316984176,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_0176152,IP_1257597,FP,0.4769244492053985,Benign,Nevus,serial imaging showing no change,Lower extremity,male,45,contact polarized
+ISIC_0836745,IP_3678754,FP,0.4775255173444748,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_0915125,IP_8528869,FP,0.4775973409414291,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_1960412,IP_4120771,FP,0.4778666347265243,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_0439475,IP_3473283,FP,0.4781970083713531,Benign,Nevus,serial imaging showing no change,,female,35,contact polarized
+ISIC_0803341,IP_7266336,FP,0.4784111306071281,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_0528304,IP_0791728,FP,0.4784484431147575,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_2023025,IP_3678754,FP,0.4784646183252334,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_0633018,IP_1281389,FP,0.4788279235363006,Benign,(vazio),serial imaging showing no change,Head and neck,female,70,
+ISIC_1530517,IP_3340825,FP,0.478890411555767,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_1578405,IP_8608823,FP,0.4791725128889084,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0800693,IP_5731808,FP,0.4792570769786834,Benign,(vazio),serial imaging showing no change,Upper extremity,male,40,
+ISIC_1437457,IP_8221268,FP,0.479683980345726,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_0592225,IP_2625193,FP,0.4799536317586899,Benign,(vazio),serial imaging showing no change,Head and neck,female,45,
+ISIC_0446287,IP_3001765,FP,0.479997269809246,Benign,(vazio),histopathology,Trunk,male,45,
+ISIC_1455551,IP_1899891,FP,0.4799983352422714,Benign,(vazio),serial imaging showing no change,Head and neck,male,35,
+ISIC_0704245,IP_5731808,FP,0.480302631855011,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_1114853,IP_3612483,FP,0.4804109781980514,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_1321208,IP_3001765,FP,0.4813789501786232,Benign,(vazio),serial imaging showing no change,Upper extremity,male,35,
+ISIC_0945202,IP_5422189,FP,0.4814298674464226,Benign,Nevus,histopathology,,male,45,
+ISIC_1702881,IP_4162057,FP,0.48195830732584,Benign,(vazio),serial imaging showing no change,Lower extremity,male,50,
+ISIC_0538335,IP_8578442,FP,0.4833255112171173,Benign,Nevus,single image expert consensus,Trunk,male,50,contact polarized
+ISIC_0739401,IP_5240771,FP,0.4834046363830566,Benign,(vazio),serial imaging showing no change,Trunk,female,55,
+ISIC_1332157,IP_4896989,FP,0.4842461124062538,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_0598769,IP_9265726,FP,0.4847363233566284,Benign,Nevus,serial imaging showing no change,,male,75,contact polarized
+ISIC_1295270,IP_1685042,FP,0.4849271923303604,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_1537434,IP_9834034,FP,0.4851791486144066,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_0799979,IP_9960111,FP,0.4852113574743271,Benign,(vazio),serial imaging showing no change,Upper extremity,female,65,
+ISIC_0477793,IP_3309441,FP,0.4852506294846535,Benign,Nevus,histopathology,Trunk,female,30,
+ISIC_1337523,IP_1197632,FP,0.4858161807060241,Benign,(vazio),serial imaging showing no change,Trunk,female,65,
+ISIC_1238085,IP_1636885,FP,0.4860761538147926,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_0584197,IP_9960111,FP,0.4873281568288803,Benign,(vazio),serial imaging showing no change,Trunk,female,65,
+ISIC_0729365,IP_1792727,FP,0.4883642941713333,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_0613555,IP_4390015,FP,0.4892682358622551,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_1605845,IP_4162057,FP,0.4894211292266845,Benign,(vazio),serial imaging showing no change,Upper extremity,male,50,
+ISIC_1165206,IP_3426128,FP,0.489663690328598,Benign,Nevus,serial imaging showing no change,,female,55,contact polarized
+ISIC_0199195,IP_6888971,FP,0.4900766238570213,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_0251656,IP_3273742,FP,0.4902316406369209,Benign,(vazio),single image expert consensus,Lower extremity,male,40,
+ISIC_1083405,IP_8586594,FP,0.4902328327298164,Benign,(vazio),serial imaging showing no change,Upper extremity,male,60,
+ISIC_0857436,IP_2160072,FP,0.490618534386158,Benign,(vazio),serial imaging showing no change,Upper extremity,female,30,
+ISIC_2031662,IP_7759961,FP,0.4909844398498535,Benign,Nevus,serial imaging showing no change,Lower extremity,female,60,contact polarized
+ISIC_1252180,IP_8586594,FP,0.4915748015046119,Benign,(vazio),serial imaging showing no change,Lower extremity,male,70,
+ISIC_0681410,IP_8861963,FP,0.4915876761078834,Benign,(vazio),serial imaging showing no change,Trunk,male,65,contact non-polarized
+ISIC_0587527,IP_4270640,FP,0.4917647913098335,Benign,(vazio),serial imaging showing no change,Head and neck,male,60,
+ISIC_1777399,IP_8854803,FP,0.4919509589672088,Benign,Nevus,single image expert consensus,Trunk,male,15,contact polarized
+ISIC_1380076,IP_3462831,FP,0.4926432073116302,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_1681968,IP_3872865,FP,0.4928687959909439,Benign,Nevus,serial imaging showing no change,,male,75,contact polarized
+ISIC_0239635,IP_4869668,FP,0.4928894340991974,Benign,Nevus,histopathology,Lower extremity,female,45,
+ISIC_1108023,IP_4851018,FP,0.4932313933968544,Benign,Nevus,serial imaging showing no change,Lower extremity,male,55,contact polarized
+ISIC_2022961,IP_8180321,FP,0.4936946406960487,Benign,Nevus,single image expert consensus,Trunk,male,15,contact polarized
+ISIC_0712978,IP_5487594,FP,0.4937429204583168,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_1455912,IP_6291839,FP,0.493787832558155,Benign,(vazio),serial imaging showing no change,Upper extremity,female,35,
+ISIC_1030252,IP_6490054,FP,0.4944503456354141,Benign,Nevus,histopathology,Head and neck,female,50,
+ISIC_0310320,IP_5329112,FP,0.4945176541805267,Benign,(vazio),histopathology,Lower extremity,male,45,
+ISIC_0595682,IP_8299975,FP,0.4948177933692932,Benign,Nevus,single image expert consensus,Upper extremity,female,30,contact polarized
+ISIC_0196159,IP_9592704,FP,0.4949020147323608,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_1326902,IP_7822788,FP,0.4950148686766624,Benign,(vazio),serial imaging showing no change,Trunk,female,35,
+ISIC_0191895,IP_9124734,FP,0.4952517002820968,Benign,Nevus,serial imaging showing no change,,male,60,contact polarized
+ISIC_1752018,IP_0190741,FP,0.4967036694288254,Benign,Nevus,single image expert consensus,Upper extremity,female,55,contact polarized
+ISIC_0646211,IP_5535774,FP,0.4968038126826286,Benign,Nevus,single image expert consensus,Trunk,female,45,contact polarized
+ISIC_1822720,IP_6947890,FP,0.4982762187719345,Benign,Nevus,single image expert consensus,Upper extremity,male,45,contact polarized
+ISIC_1042751,IP_1792727,FP,0.4984163641929626,Benign,(vazio),serial imaging showing no change,Upper extremity,male,65,
+ISIC_0446097,IP_8608823,FP,0.4985094144940376,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_1330788,IP_6413175,FP,0.498718187212944,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_1567545,IP_9935831,FP,0.498869888484478,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1716427,IP_2396948,FP,0.4993737488985061,Benign,(vazio),serial imaging showing no change,Lower extremity,female,45,
+ISIC_1232384,IP_0953239,FP,0.5009237006306648,Benign,(vazio),serial imaging showing no change,,male,30,
+ISIC_1006804,IP_9055322,FP,0.5012424886226654,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_1490432,IP_5748247,FP,0.5015582144260406,Benign,(vazio),single image expert consensus,Lower extremity,female,65,
+ISIC_0258149,IP_9592704,FP,0.5016502439975739,Benign,(vazio),serial imaging showing no change,Head and neck,male,55,
+ISIC_0431499,IP_1247756,FP,0.5017429441213608,Benign,(vazio),serial imaging showing no change,Trunk,female,65,
+ISIC_0477875,IP_2396948,FP,0.5020968616008759,Benign,(vazio),serial imaging showing no change,Lower extremity,female,45,
+ISIC_0835778,IP_9124734,FP,0.5026618912816048,Benign,Nevus,serial imaging showing no change,,male,60,contact polarized
+ISIC_1978115,IP_3678754,FP,0.5032352060079575,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_1718359,IP_9265726,FP,0.5036920458078384,Benign,Nevus,serial imaging showing no change,,male,75,contact polarized
+ISIC_0169906,IP_7022075,FP,0.5048436969518661,Benign,(vazio),serial imaging showing no change,Trunk,male,85,
+ISIC_1809790,IP_7706695,FP,0.5050215274095535,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_0330886,IP_9592704,FP,0.5054426416754723,Benign,(vazio),serial imaging showing no change,Upper extremity,male,55,
+ISIC_1743829,IP_0019804,FP,0.5054552406072617,Benign,Nevus,single image expert consensus,Trunk,female,40,contact polarized
+ISIC_1933796,IP_6362917,FP,0.5055304989218712,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_0681751,IP_2160072,FP,0.5055426508188248,Benign,(vazio),serial imaging showing no change,Trunk,female,30,
+ISIC_0351912,IP_1663752,FP,0.5055465847253799,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_0493429,IP_1706183,FP,0.5055565536022186,Benign,(vazio),serial imaging showing no change,Trunk,female,60,
+ISIC_1872208,IP_2496585,FP,0.5069677159190178,Benign,(vazio),single image expert consensus,Trunk,male,60,
+ISIC_1764662,IP_8386774,FP,0.507348045706749,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_1754283,IP_6148415,FP,0.5076243579387665,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_0735344,IP_0791728,FP,0.5078880786895752,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_0165178,IP_8221268,FP,0.5078912526369095,Benign,(vazio),serial imaging showing no change,Upper extremity,male,50,
+ISIC_0541206,IP_0957210,FP,0.5091462731361389,Benign,Nevus,serial imaging showing no change,Upper extremity,male,40,contact polarized
+ISIC_1843255,IP_1213570,FP,0.5095173455774784,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0235542,IP_4745071,FP,0.5096772387623787,Benign,(vazio),single image expert consensus,Trunk,female,70,
+ISIC_1873885,IP_3110660,FP,0.510445699095726,Benign,Nevus,serial imaging showing no change,Upper extremity,male,40,contact polarized
+ISIC_1077011,IP_0791728,FP,0.5105342417955399,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1476421,IP_5228625,FP,0.5106109976768494,Benign,(vazio),serial imaging showing no change,Head and neck,male,55,contact non-polarized
+ISIC_0758024,IP_5439840,FP,0.5106529742479324,Benign,Nevus,serial imaging showing no change,,female,50,contact polarized
+ISIC_2132834,IP_0854419,FP,0.5120007619261742,Benign,Nevus,single image expert consensus,Trunk,male,40,contact polarized
+ISIC_0925021,IP_8806373,FP,0.5127517133951187,Benign,Nevus,serial imaging showing no change,,male,70,contact polarized
+ISIC_0991001,IP_2396948,FP,0.5133657604455948,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_0879061,IP_6532829,FP,0.5135716870427132,Benign,Nevus,single image expert consensus,Upper extremity,male,55,contact polarized
+ISIC_1073062,IP_7266336,FP,0.5143861770629883,Benign,(vazio),serial imaging showing no change,Lower extremity,female,45,
+ISIC_1525226,IP_5868128,FP,0.5145642459392548,Benign,(vazio),serial imaging showing no change,Lower extremity,female,45,
+ISIC_0968444,IP_9824454,FP,0.514653742313385,Benign,Nevus,serial imaging showing no change,Upper extremity,male,40,contact polarized
+ISIC_1429860,IP_6643984,FP,0.5161409229040146,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_1061980,IP_7689061,FP,0.5162204056978226,Benign,Nevus,serial imaging showing no change,Upper extremity,male,45,contact polarized
+ISIC_1648251,IP_7210646,FP,0.5164382457733154,Benign,Nevus,single image expert consensus,Upper extremity,female,55,contact polarized
+ISIC_1060105,IP_1388449,FP,0.5165563523769379,Benign,(vazio),serial imaging showing no change,Head and neck,male,70,contact non-polarized
+ISIC_1334645,IP_5529572,FP,0.5168053358793259,Benign,(vazio),single image expert consensus,Trunk,male,50,
+ISIC_1905650,IP_2842163,FP,0.5172928795218468,Benign,(vazio),serial imaging showing no change,Trunk,male,25,
+ISIC_0917619,IP_2312592,FP,0.5173112154006958,Benign,(vazio),single image expert consensus,Upper extremity,female,40,
+ISIC_0939822,IP_0581821,FP,0.5174170136451721,Benign,Nevus,single image expert consensus,Trunk,female,30,contact polarized
+ISIC_0724784,IP_0073842,FP,0.5177196562290192,Benign,Nevus,single image expert consensus,Upper extremity,female,55,contact polarized
+ISIC_1542403,IP_2816092,FP,0.5193463116884232,Benign,(vazio),serial imaging showing no change,Trunk,male,70,
+ISIC_2070985,IP_5329112,FP,0.519677609205246,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_1993897,IP_1335308,FP,0.5198747664690018,Benign,(vazio),serial imaging showing no change,Trunk,female,60,
+ISIC_0424070,IP_0190741,FP,0.5200666785240173,Benign,Nevus,single image expert consensus,Upper extremity,female,55,contact polarized
+ISIC_0571336,IP_3678754,FP,0.5203601345419884,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_0504453,IP_4162057,FP,0.5211716890335083,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_1999035,IP_4189253,FP,0.5212064236402512,Benign,(vazio),serial imaging showing no change,Lower extremity,female,40,
+ISIC_2101858,IP_7425436,FP,0.5213002786040306,Benign,Nevus,single image expert consensus,Trunk,female,65,contact polarized
+ISIC_0274458,IP_5240771,FP,0.5213828459382057,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,
+ISIC_0925595,IP_4972619,FP,0.5216090753674507,Benign,(vazio),single image expert consensus,Upper extremity,male,40,
+ISIC_0785830,IP_3678754,FP,0.5216416269540787,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_2153145,IP_8528869,FP,0.5218489617109299,Benign,(vazio),serial imaging showing no change,Upper extremity,male,40,
+ISIC_1827695,IP_5781009,FP,0.5220263302326202,Benign,(vazio),serial imaging showing no change,Trunk,female,75,
+ISIC_0685033,IP_3462831,FP,0.5231545567512512,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_1654007,IP_0035173,FP,0.5233240872621536,Benign,Nevus,serial imaging showing no change,,male,70,contact polarized
+ISIC_0881966,IP_0299921,FP,0.5239189714193344,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_0537430,IP_9918026,FP,0.5239741578698158,Benign,Nevus,histopathology,Trunk,male,70,
+ISIC_1909792,IP_2816092,FP,0.5240527093410492,Benign,(vazio),serial imaging showing no change,Lower extremity,male,70,
+ISIC_1649659,IP_0596558,FP,0.524352490901947,Benign,(vazio),serial imaging showing no change,Head and neck,male,55,
+ISIC_0647385,IP_3931331,FP,0.5248068906366825,Benign,(vazio),single image expert consensus,Lower extremity,male,30,
+ISIC_0665430,IP_4058630,FP,0.5248417630791664,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_0684256,IP_7706695,FP,0.5251250565052032,Benign,(vazio),serial imaging showing no change,Upper extremity,female,50,
+ISIC_1365267,IP_8528869,FP,0.5251594334840775,Benign,(vazio),serial imaging showing no change,Upper extremity,male,40,
+ISIC_1000561,IP_5152884,FP,0.5254710614681244,Benign,(vazio),serial imaging showing no change,Trunk,male,70,
+ISIC_1227734,IP_4756282,FP,0.5256146341562271,Benign,(vazio),serial imaging showing no change,Trunk,female,25,
+ISIC_1153994,IP_6291839,FP,0.5264197587966919,Benign,(vazio),serial imaging showing no change,Trunk,female,35,
+ISIC_0535264,IP_2660031,FP,0.5265254229307175,Indeterminate,Atypical intraepithelial melanocytic proliferation,histopathology,Lower extremity,female,45,
+ISIC_1289402,IP_3305115,FP,0.5270655378699303,Benign,(vazio),single image expert consensus,Trunk,male,50,
+ISIC_1065235,IP_3941289,FP,0.5271111279726028,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_0515737,IP_6488213,FP,0.527231477200985,Benign,(vazio),serial imaging showing no change,Trunk,female,55,
+ISIC_1482083,IP_9124734,FP,0.5273469388484955,Benign,Nevus,serial imaging showing no change,,male,65,contact polarized
+ISIC_1663587,IP_1870503,FP,0.5288251340389252,Benign,(vazio),single image expert consensus,Trunk,female,40,
+ISIC_1794134,IP_7822788,FP,0.5301738828420639,Benign,(vazio),serial imaging showing no change,Upper extremity,female,40,
+ISIC_0183449,IP_4120771,FP,0.5308536291122437,Benign,(vazio),serial imaging showing no change,Lower extremity,female,60,
+ISIC_0772578,IP_7706695,FP,0.5320539623498917,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_0259209,IP_1406758,FP,0.5326279401779175,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_2140269,IP_2625193,FP,0.5332231521606445,Benign,(vazio),serial imaging showing no change,Lower extremity,female,45,
+ISIC_1408106,IP_9935831,FP,0.5332542508840561,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1291467,IP_8180321,FP,0.5341709479689598,Benign,Nevus,single image expert consensus,Trunk,male,15,contact polarized
+ISIC_0707036,IP_7706695,FP,0.5342788696289062,Benign,(vazio),serial imaging showing no change,Lower extremity,female,50,
+ISIC_1443365,IP_1197632,FP,0.5350001156330109,Benign,(vazio),serial imaging showing no change,Upper extremity,female,65,
+ISIC_0701649,IP_2892817,FP,0.5351492464542389,Benign,Nevus,single image expert consensus,Trunk,female,55,contact polarized
+ISIC_0495887,IP_3634181,FP,0.5360713377594948,Benign,Nevus,histopathology,Trunk,male,65,
+ISIC_1503905,IP_9778433,FP,0.5362816751003265,Benign,(vazio),single image expert consensus,Trunk,male,55,
+ISIC_1434736,IP_8096695,FP,0.5364480242133141,Benign,(vazio),single image expert consensus,Trunk,male,70,
+ISIC_1223751,IP_8382937,FP,0.5364744663238525,Benign,(vazio),serial imaging showing no change,Lower extremity,male,20,
+ISIC_1973133,IP_0717179,FP,0.5366879105567932,Indeterminate,Atypical intraepithelial melanocytic proliferation,histopathology,Trunk,female,40,
+ISIC_1643380,IP_6453213,FP,0.5367503613233566,Benign,Nevus,single image expert consensus,Lower extremity,female,45,contact polarized
+ISIC_1300339,IP_1257597,FP,0.5368378460407257,Benign,Nevus,serial imaging showing no change,,male,40,contact polarized
+ISIC_1615667,IP_6362917,FP,0.5372077226638794,Benign,(vazio),serial imaging showing no change,Trunk,male,30,
+ISIC_0770508,IP_0910000,FP,0.5376388728618622,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_0479726,IP_7013057,FP,0.538297489285469,Benign,(vazio),single image expert consensus,Trunk,male,50,
+ISIC_1903896,IP_9236184,FP,0.5383060798048973,Benign,Nevus,single image expert consensus,Trunk,male,45,contact polarized
+ISIC_0737285,IP_5249864,FP,0.5385256111621857,Benign,(vazio),serial imaging showing no change,,male,80,
+ISIC_2052657,IP_4390015,FP,0.5400317013263702,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0579367,IP_6584284,FP,0.5405661091208458,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_0082785,IP_3634181,FP,0.5406223759055138,Benign,Nevus,histopathology,Lower extremity,male,65,
+ISIC_2086981,IP_8233673,FP,0.5420031696557999,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1170265,IP_9218667,FP,0.5442177355289459,Benign,(vazio),serial imaging showing no change,Lower extremity,male,35,
+ISIC_1505785,IP_7022075,FP,0.545143187046051,Benign,(vazio),serial imaging showing no change,Trunk,male,85,
+ISIC_0870455,IP_4120771,FP,0.545215368270874,Benign,(vazio),serial imaging showing no change,Lower extremity,female,60,
+ISIC_0937409,IP_6947890,FP,0.5453608930110931,Benign,Nevus,single image expert consensus,Trunk,male,45,contact polarized
+ISIC_0810336,IP_8540864,FP,0.5453827530145645,Benign,Nevus,single image expert consensus,Trunk,male,30,contact polarized
+ISIC_1861560,IP_0791728,FP,0.5464874804019928,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_0168125,IP_5057252,FP,0.5474082753062248,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_1538921,IP_4718171,FP,0.5476608127355576,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_0885617,IP_0683265,FP,0.5479045361280441,Benign,(vazio),serial imaging showing no change,Upper extremity,female,55,
+ISIC_1410832,IP_7706695,FP,0.5480341464281082,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_1794017,IP_5748247,FP,0.5485154315829277,Benign,(vazio),single image expert consensus,Upper extremity,female,65,
+ISIC_0792492,IP_1281389,FP,0.5490877777338028,Benign,(vazio),serial imaging showing no change,Head and neck,female,60,
+ISIC_1794778,IP_3678754,FP,0.5496866106987,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_1351779,IP_9592704,FP,0.5501458942890167,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1443435,IP_8586594,FP,0.5505494624376297,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_0732261,IP_6362917,FP,0.5514305531978607,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1566553,IP_2160072,FP,0.5516634583473206,Benign,(vazio),serial imaging showing no change,Trunk,female,25,
+ISIC_1326532,IP_4551986,FP,0.551843985915184,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_0522569,IP_4400935,FP,0.5523360818624496,Benign,(vazio),serial imaging showing no change,Trunk,female,55,
+ISIC_0650090,IP_4851018,FP,0.5528674125671387,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_0547086,IP_4064594,FP,0.5537110567092896,Benign,(vazio),single image expert consensus,Head and neck,male,70,contact non-polarized
+ISIC_1875012,IP_4219479,FP,0.5537465512752533,Benign,Nevus,histopathology,Trunk,female,50,
+ISIC_0304667,IP_9592704,FP,0.5541015416383743,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_1676054,IP_4120771,FP,0.5542066544294357,Benign,(vazio),serial imaging showing no change,Trunk,female,60,
+ISIC_1347156,IP_1406758,FP,0.5546020865440369,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_0381595,IP_7403013,FP,0.5546356439590454,Benign,Nevus,serial imaging showing no change,,female,45,contact polarized
+ISIC_1177164,IP_9834034,FP,0.5558508783578873,Benign,(vazio),serial imaging showing no change,,male,40,
+ISIC_0655512,IP_5730945,FP,0.5559485852718353,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_0453555,IP_1335308,FP,0.5561550110578537,Benign,(vazio),serial imaging showing no change,Trunk,female,60,
+ISIC_0977840,IP_5057252,FP,0.5566354990005493,Benign,(vazio),serial imaging showing no change,Trunk,male,30,
+ISIC_1208410,IP_1204127,FP,0.5567224025726318,Benign,(vazio),single image expert consensus,Trunk,male,50,
+ISIC_0546119,IP_7870374,FP,0.5570159405469894,Benign,(vazio),serial imaging showing no change,Trunk,female,45,contact non-polarized
+ISIC_1734464,IP_9887407,FP,0.5575915649533272,Benign,(vazio),serial imaging showing no change,Head and neck,female,30,
+ISIC_0582531,IP_6570299,FP,0.5584076046943665,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_0604516,IP_4782886,FP,0.5590549260377884,Benign,Nevus,serial imaging showing no change,Lower extremity,male,80,contact polarized
+ISIC_0735361,IP_6888971,FP,0.5595403015613556,Benign,Nevus,serial imaging showing no change,,male,50,contact polarized
+ISIC_1523725,IP_3404063,FP,0.5601741969585419,Benign,(vazio),serial imaging showing no change,Lower extremity,female,80,
+ISIC_0960354,IP_5781009,FP,0.5609502196311951,Benign,(vazio),serial imaging showing no change,Lower extremity,female,80,
+ISIC_0928578,IP_5240771,FP,0.5617301315069199,Benign,(vazio),serial imaging showing no change,Lower extremity,female,50,
+ISIC_1347351,IP_2852390,FP,0.5621943548321724,Benign,(vazio),serial imaging showing no change,,male,30,
+ISIC_0635721,IP_8221268,FP,0.5622077882289886,Benign,(vazio),serial imaging showing no change,Trunk,male,65,
+ISIC_1706576,IP_3678754,FP,0.5629472136497498,Benign,(vazio),serial imaging showing no change,Upper extremity,male,45,
+ISIC_0383641,IP_9168687,FP,0.562969334423542,Benign,(vazio),single image expert consensus,Lower extremity,female,40,
+ISIC_1998888,IP_0557219,FP,0.5637504458427429,Benign,Nevus,serial imaging showing no change,,female,55,contact polarized
+ISIC_1683990,IP_4942161,FP,0.5640320330858231,Benign,(vazio),serial imaging showing no change,Trunk,male,40,
+ISIC_1844023,IP_4438996,FP,0.5652275830507278,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_0976715,IP_0957210,FP,0.5657180100679398,Benign,Nevus,serial imaging showing no change,,male,40,contact polarized
+ISIC_0378668,IP_6362917,FP,0.5661120414733887,Benign,(vazio),serial imaging showing no change,Lower extremity,male,45,
+ISIC_0997441,IP_2277592,FP,0.5661579817533493,Benign,(vazio),serial imaging showing no change,Trunk,female,35,
+ISIC_0813138,IP_8528869,FP,0.5665951818227768,Benign,(vazio),serial imaging showing no change,Trunk,male,25,
+ISIC_0251455,IP_9596008,FP,0.566979706287384,Benign,(vazio),serial imaging showing no change,Upper extremity,female,20,
+ISIC_0867683,IP_4072087,FP,0.5681999772787094,Benign,Nevus,histopathology,Trunk,male,55,
+ISIC_0578354,IP_4573011,FP,0.5695253014564514,Benign,(vazio),single image expert consensus,Trunk,male,70,
+ISIC_1330140,IP_4438996,FP,0.5698195248842239,Benign,(vazio),serial imaging showing no change,Trunk,male,45,
+ISIC_0235501,IP_7151390,FP,0.5702312812209129,Benign,(vazio),serial imaging showing no change,Upper extremity,male,50,
+ISIC_1706957,IP_7759961,FP,0.57087442278862,Benign,Nevus,serial imaging showing no change,,female,60,contact polarized
+ISIC_0351156,IP_2287006,FP,0.5721656680107117,Benign,(vazio),single image expert consensus,Head and neck,male,40,
+ISIC_0660782,IP_3305115,FP,0.5722561180591583,Benign,Nevus,histopathology,Upper extremity,male,50,
+ISIC_0674636,IP_5781009,FP,0.5728849247097969,Benign,(vazio),histopathology,Trunk,female,70,
+ISIC_0252811,IP_5868128,FP,0.5731616467237473,Benign,(vazio),serial imaging showing no change,Trunk,female,45,
+ISIC_1565504,IP_7822788,FP,0.5731751769781113,Benign,(vazio),serial imaging showing no change,Upper extremity,female,35,
+ISIC_1867969,IP_7689061,FP,0.5732735097408295,Benign,Nevus,serial imaging showing no change,Lower extremity,male,40,contact polarized
+ISIC_1092064,IP_6719956,FP,0.5733187794685364,Benign,Nevus,single image expert consensus,Trunk,female,35,contact polarized
+ISIC_1207459,IP_8528869,FP,0.573844239115715,Benign,(vazio),serial imaging showing no change,Upper extremity,male,40,
+ISIC_1049904,IP_8221268,FP,0.5746719837188721,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_0548968,IP_4152479,FP,0.5751710683107376,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_0996873,IP_5868128,FP,0.5759428143501282,Benign,Nevus,histopathology,Lower extremity,female,45,
+ISIC_1180045,IP_1247756,FP,0.5773389339447021,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_1841540,IP_9124734,FP,0.5782438665628433,Benign,Nevus,serial imaging showing no change,,male,60,contact polarized
+ISIC_1049919,IP_9937775,FP,0.5791882872581482,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,
+ISIC_1643984,IP_3556635,FP,0.580014057457447,Benign,(vazio),single image expert consensus,,male,45,
+ISIC_0535812,IP_6362917,FP,0.5813442021608353,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_1158632,IP_6715373,FP,0.5813982486724854,Benign,(vazio),serial imaging showing no change,Lower extremity,female,60,
+ISIC_0780165,IP_7094148,FP,0.5841598212718964,Benign,(vazio),serial imaging showing no change,Trunk,male,80,
+ISIC_0432133,IP_2892817,FP,0.5847523212432861,Benign,Nevus,single image expert consensus,Trunk,female,55,contact polarized
+ISIC_0874773,IP_5781009,FP,0.5849502831697464,Benign,(vazio),serial imaging showing no change,Trunk,female,80,
+ISIC_0797113,IP_0761199,FP,0.5849693268537521,Benign,(vazio),single image expert consensus,Upper extremity,male,70,
+ISIC_1525882,IP_6532829,FP,0.5854583978652954,Benign,Nevus,single image expert consensus,Trunk,male,55,contact polarized
+ISIC_1630017,IP_9373117,FP,0.5855769664049149,Benign,(vazio),serial imaging showing no change,Trunk,male,55,
+ISIC_0999078,IP_8954558,FP,0.5864845514297485,Benign,(vazio),serial imaging showing no change,Lower extremity,female,25,
+ISIC_1893315,IP_9375865,FP,0.5867269188165665,Benign,(vazio),serial imaging showing no change,Upper extremity,female,35,
+ISIC_1608729,IP_1792727,FP,0.5874527990818024,Benign,(vazio),serial imaging showing no change,Lower extremity,male,60,
+ISIC_0437987,IP_6888971,FP,0.5890965461730957,Benign,Nevus,serial imaging showing no change,,male,45,contact polarized
+ISIC_1012437,IP_5367759,FP,0.5893061459064484,Benign,(vazio),serial imaging showing no change,Lower extremity,male,55,
+ISIC_1733359,IP_7473686,FP,0.5895348489284515,Benign,Nevus,histopathology,Head and neck,female,55,
+ISIC_1871802,IP_7034119,FP,0.5908468663692474,Benign,(vazio),serial imaging showing no change,Upper extremity,female,65,
+ISIC_1111779,IP_3776394,FP,0.5911737978458405,Benign,Nevus,serial imaging showing no change,Head and neck,female,45,contact polarized
+ISIC_1704686,IP_6947890,FP,0.5918694138526917,Benign,Nevus,single image expert consensus,Trunk,male,45,contact polarized
+ISIC_0186715,IP_8404233,FP,0.5930865406990051,Benign,(vazio),serial imaging showing no change,Upper extremity,female,35,
+ISIC_0504686,IP_5611709,FP,0.5938963890075684,Benign,(vazio),serial imaging showing no change,Lower extremity,female,55,
+ISIC_0311235,IP_8666903,FP,0.5943493545055389,Benign,(vazio),single image expert consensus,,male,75,
+ISIC_1879385,IP_5748247,FP,0.5948764383792877,Benign,Nevus,histopathology,Trunk,female,65,
+ISIC_2061789,IP_1124981,FP,0.5978104621171951,Benign,(vazio),single image expert consensus,Trunk,male,25,
+ISIC_0853893,IP_0703816,FP,0.5980516523122787,Benign,Nevus,serial imaging showing no change,,male,55,contact polarized
+ISIC_1845160,IP_0717179,FP,0.5988359451293945,Benign,(vazio),single image expert consensus,Trunk,female,40,
+ISIC_1272916,IP_6625134,FP,0.6004476547241211,Benign,(vazio),serial imaging showing no change,Upper extremity,male,55,
+ISIC_1384746,IP_5378875,FP,0.6006782799959183,Benign,(vazio),serial imaging showing no change,Lower extremity,female,40,
+ISIC_0627128,IP_5781009,FP,0.6017300337553024,Benign,(vazio),serial imaging showing no change,Trunk,female,80,
+ISIC_1366473,IP_0761199,FP,0.6070107519626617,Benign,(vazio),single image expert consensus,Upper extremity,male,70,
+ISIC_0959042,IP_8586594,FP,0.608837902545929,Benign,(vazio),serial imaging showing no change,,male,55,
+ISIC_0686961,IP_9022601,FP,0.6089604645967484,Benign,(vazio),serial imaging showing no change,Lower extremity,male,40,
+ISIC_0729188,IP_8233673,FP,0.6091872602701187,Benign,(vazio),serial imaging showing no change,Upper extremity,male,30,
+ISIC_0434920,IP_7072321,FP,0.6101785749197006,Benign,(vazio),single image expert consensus,Upper extremity,male,40,
+ISIC_1850537,IP_4665747,FP,0.61026631295681,Benign,(vazio),single image expert consensus,Head and neck,female,80,
+ISIC_0227767,IP_5989034,FP,0.6107788383960724,Benign,(vazio),single image expert consensus,Trunk,male,45,
+ISIC_0523596,IP_4663281,FP,0.6121381372213364,Benign,Nevus,single image expert consensus,Trunk,female,35,contact polarized
+ISIC_1849240,IP_0927449,FP,0.6125036776065826,Benign,(vazio),serial imaging showing no change,Trunk,female,35,
+ISIC_2123792,IP_6425310,FP,0.612530991435051,Benign,Nevus,single image expert consensus,Lower extremity,male,35,contact polarized
+ISIC_1904819,IP_4189253,FP,0.6141379028558731,Benign,(vazio),serial imaging showing no change,Trunk,female,40,
+ISIC_0913137,IP_7507954,FP,0.6182841807603836,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1674796,IP_7706695,FP,0.6183894723653793,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_1763815,IP_1281389,FP,0.6197016835212708,Benign,(vazio),serial imaging showing no change,Upper extremity,female,70,
+ISIC_0932935,IP_9887407,FP,0.6200088858604431,Benign,(vazio),serial imaging showing no change,Trunk,female,25,
+ISIC_1890526,IP_5240771,FP,0.6212296485900879,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,
+ISIC_1932316,IP_8578442,FP,0.6255434453487396,Benign,Nevus,single image expert consensus,Trunk,male,50,contact polarized
+ISIC_1899151,IP_4851018,FP,0.6271644532680511,Benign,Nevus,serial imaging showing no change,Lower extremity,male,55,contact polarized
+ISIC_0178235,IP_5506398,FP,0.6274851113557816,Benign,Nevus,histopathology,Lower extremity,female,70,
+ISIC_1560689,IP_7706695,FP,0.6275678873062134,Benign,(vazio),serial imaging showing no change,Trunk,female,50,
+ISIC_1757767,IP_8682413,FP,0.636564314365387,Benign,Nevus,serial imaging showing no change,Lower extremity,male,45,contact polarized
+ISIC_1493995,IP_7732657,FP,0.6368038803339005,Benign,(vazio),single image expert consensus,Trunk,male,70,
+ISIC_1324913,IP_4162057,FP,0.6420925557613373,Benign,(vazio),serial imaging showing no change,Upper extremity,male,40,
+ISIC_0923085,IP_8830475,FP,0.6461202949285507,Benign,Nevus,single image expert consensus,Trunk,male,30,contact polarized
+ISIC_1341798,IP_0717179,FP,0.6471072137355804,Benign,(vazio),single image expert consensus,Trunk,female,35,
+ISIC_1713496,IP_4058630,FP,0.6515069901943207,Benign,(vazio),serial imaging showing no change,Trunk,male,35,
+ISIC_1493810,IP_7870374,FP,0.6585680246353149,Benign,(vazio),serial imaging showing no change,Upper extremity,female,45,contact non-polarized
+ISIC_0986894,IP_4120771,FP,0.6622953414916992,Benign,(vazio),serial imaging showing no change,Trunk,female,60,
+ISIC_0327756,IP_8637270,FP,0.6667951345443726,Benign,(vazio),single image expert consensus,,male,65,
+ISIC_1365026,IP_0761199,FP,0.6693137288093567,Benign,(vazio),single image expert consensus,Lower extremity,male,70,
+ISIC_1720393,IP_4270640,FP,0.6701591461896896,Benign,(vazio),serial imaging showing no change,Trunk,male,60,
+ISIC_0943849,IP_2816092,FP,0.6705961376428604,Benign,(vazio),serial imaging showing no change,Upper extremity,male,70,
+ISIC_0867509,IP_5781009,FP,0.675533264875412,Benign,(vazio),serial imaging showing no change,Trunk,female,80,
+ISIC_1778659,IP_4390015,FP,0.6768777519464493,Benign,(vazio),serial imaging showing no change,Lower extremity,male,35,
+ISIC_2117677,IP_2682513,FP,0.677221953868866,Benign,Seborrheic keratosis,histopathology,Head and neck,male,55,
+ISIC_2091124,IP_8586594,FP,0.678516760468483,Benign,(vazio),serial imaging showing no change,Trunk,male,50,
+ISIC_1378689,IP_9887407,FP,0.6788352578878403,Benign,(vazio),serial imaging showing no change,Trunk,female,20,
+ISIC_0580265,IP_4869668,FP,0.6798886507749557,Benign,(vazio),single image expert consensus,Head and neck,female,45,
+ISIC_1772418,IP_9693983,FP,0.6866903007030487,Benign,(vazio),serial imaging showing no change,Head and neck,female,45,
+ISIC_1409447,IP_2827973,FP,0.6910377740859985,Benign,Nevus,single image expert consensus,Trunk,male,40,contact polarized
+ISIC_1276962,IP_5228625,FP,0.6986195892095566,Benign,(vazio),serial imaging showing no change,Trunk,male,55,contact non-polarized
+ISIC_2137918,IP_0761199,FP,0.7028283923864365,Benign,(vazio),single image expert consensus,Trunk,male,70,
+ISIC_0634896,IP_5615339,FP,0.7031558603048325,Benign,(vazio),single image expert consensus,Head and neck,male,85,
+ISIC_1022193,IP_3678754,FP,0.7056816667318344,Benign,(vazio),serial imaging showing no change,,male,45,
+ISIC_0505403,IP_0761199,FP,0.7144955992698669,Benign,(vazio),single image expert consensus,Trunk,male,70,
+ISIC_1294368,IP_5661694,FP,0.7191784828901291,Benign,Nevus,histopathology,Trunk,female,35,
+ISIC_1831532,IP_3571173,FP,0.7206165492534637,Benign,Nevus,serial imaging showing no change,Lower extremity,male,20,contact polarized
+ISIC_1436510,IP_8221268,FP,0.7222569584846497,Benign,(vazio),serial imaging showing no change,Trunk,male,60,
+ISIC_0650063,IP_0326123,FP,0.7249588668346405,Indeterminate,Atypical intraepithelial melanocytic proliferation,histopathology,Head and neck,male,45,
+ISIC_1524188,IP_1685042,FP,0.7324808686971664,Benign,Nevus,serial imaging showing no change,Lower extremity,female,50,contact polarized
+ISIC_0936377,IP_2611219,FP,0.7360978573560715,Benign,Lentigo NOS,histopathology,Head and neck,male,60,
+ISIC_0470465,IP_3331830,FP,0.7381921708583832,Benign,(vazio),single image expert consensus,Upper extremity,male,40,
+ISIC_0438584,IP_1422111,FP,0.752697229385376,Benign,Lentigo simplex,histopathology,Lower extremity,female,65,
+ISIC_1571910,IP_3144035,FP,0.7528160959482193,Benign,Nevus,single image expert consensus,Upper extremity,female,30,contact polarized
+ISIC_1812060,IP_0655496,FP,0.761631578207016,Benign,(vazio),single image expert consensus,Lower extremity,female,85,
+ISIC_0732158,IP_5958137,FP,0.7628836184740067,Benign,(vazio),serial imaging showing no change,Trunk,male,30,
+ISIC_1407308,IP_4869668,FP,0.7707258611917496,Benign,(vazio),single image expert consensus,Upper extremity,female,45,
+ISIC_0238872,IP_3331830,FP,0.7804760783910751,Benign,Nevus,histopathology,Head and neck,male,45,
+ISIC_0896427,IP_5529572,FP,0.7912199348211288,Benign,Nevus,histopathology,Head and neck,male,50,
+ISIC_1925250,IP_5529572,FP,0.7990461140871048,Benign,(vazio),single image expert consensus,Upper extremity,male,50,
+ISIC_1632378,IP_4196998,FP,0.8039246946573257,Benign,Seborrheic keratosis,histopathology,Head and neck,male,55,
+ISIC_1268852,IP_3571173,FP,0.8071928471326828,Benign,Nevus,serial imaging showing no change,Lower extremity,male,25,contact polarized
+ISIC_1138294,IP_1756800,FP,0.8277700692415237,Benign,Nevus,single image expert consensus,Trunk,male,50,contact polarized
+ISIC_1785643,IP_6357805,FP,0.828015074133873,Benign,(vazio),serial imaging showing no change,Lower extremity,male,25,
+ISIC_0451155,IP_8218877,FP,0.8524129390716553,Benign,Lentigo NOS,histopathology,Upper extremity,female,60,
+ISIC_2128809,IP_9458945,FP,0.8657714575529099,Benign,(vazio),single image expert consensus,Head and neck,female,30,
+ISIC_0274789,IP_2053886,FP,0.8680600225925446,Benign,(vazio),serial imaging showing no change,Trunk,male,80,
+ISIC_2052123,IP_2814662,FP,0.8786916136741638,Benign,Nevus,histopathology,Trunk,female,70,
+ISIC_0908910,IP_1952634,FP,0.9005053490400314,Benign,Nevus,histopathology,Lower extremity,female,55,
+ISIC_0556505,IP_0589375,FP,0.9070362001657486,Benign,Nevus,single image expert consensus,Trunk,female,40,contact polarized
+ISIC_2078598,IP_2053886,FP,0.918159008026123,Benign,(vazio),serial imaging showing no change,Trunk,male,80,
+ISIC_0637104,IP_7242799,FP,0.9287619143724442,Benign,(vazio),serial imaging showing no change,Trunk,female,80,

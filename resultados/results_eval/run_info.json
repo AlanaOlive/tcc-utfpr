@@ -1,0 +1,30 @@
+{
+  "data_execucao": "2026-11-06 04:09:04",
+  "seed": 42,
+  "n_boot": 2000,
+  "sens_targets": [
+    0.7,
+    0.8,
+    0.9
+  ],
+  "sens_target_primary": 0.8,
+  "img_size": 380,
+  "batch": 32,
+  "preprocessamento": "Resize INTER_LINEAR + (x/255 - mean)/std (ImageNet); sem augmentation aleatório",
+  "tta": "orig + flip horizontal + flip vertical + ambos; média das probabilidades",
+  "python": "3.13.16",
+  "numpy": "2.4.6",
+  "pandas": "2.2.3",
+  "sklearn": "1.6.1",
+  "opencv": "4.14.0",
+  "tensorflow": "2.21.0",
+  "gpus": [
+    "/physical_device:GPU:0"
+  ],
+  "checkpoint": {
+    "arquivo": "/content/drive/MyDrive/TCC1/colab_data/isic/results/melhor_modelo_efficientnetb4.h5",
+    "bytes": 182375384,
+    "modificado_em": "2026-06-22 19:53:42",
+    "sha256": "91286cf78f104ddeecd6d3f069d764e5c06389ee683bf8599d34af035da88fda"
+  }
+}

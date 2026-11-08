@@ -1,0 +1,5 @@
+﻿diagnosis_1,Base original,Treino (antes do oversampling),Teste
+Benign,10674,8471,2203
+Indeterminate,46,42,4
+Malignant,262,200,62
+Total,10982,8713,2269

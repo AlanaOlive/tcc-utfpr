@@ -1,0 +1,28 @@
+{
+  "n_metadata": 10982,
+  "isic_id_duplicados": 0,
+  "n_arquivos_train": 8713,
+  "n_arquivos_test": 2269,
+  "arquivos_em_train_e_test": 0,
+  "train_sem_metadata": 0,
+  "test_sem_metadata": 0,
+  "metadata_sem_imagem_em_train_ou_test": 0,
+  "rotulo_diagnosis_1_nulo": 0,
+  "patient_id_nulo": 0,
+  "n_pacientes_base": 690,
+  "n_lesion_id_unicos_base": 10887,
+  "valores_diagnosis_1": {
+    "Benign": 10674,
+    "Malignant": 262,
+    "Indeterminate": 46
+  },
+  "licencas": {
+    "CC-BY": 7175,
+    "CC-BY-NC": 3807
+  },
+  "pacientes_treino": 690,
+  "pacientes_teste": 585,
+  "pacientes_em_ambos": 585,
+  "imagens_teste_de_pacientes_vistos_no_treino": 2269,
+  "imagens_teste_de_lesoes_vistas_no_treino": 26
+}
