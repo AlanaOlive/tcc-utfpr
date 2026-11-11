@@ -1,5 +1,6 @@
 # tcc-utfpr
 Projeto desenvolvido como TCC do curso de Engenharia de Software na Universidade Tecnológica Federal do Paraná.
+
 -> [Aplicação de Aprendizado Profundo na Classificação de Lesões Cutâneas Usando o Conjunto de dados ISIC Challenge 2020: test]
 
 Este trabalho faz uma avaliação experimental sobre o desempenho de um
@@ -49,11 +50,11 @@ Instale as dependências necessárias contidas no arquivo \code\Codigo_treinamen
  Faça o download do dataset no link [https://api.isic-archive.com/collections/68/] e em seguida monte o drive com a seguinte organização de pastas:
  
  [ 
-    ISIC
-    |- train
-    |-test
-    |- results_eval
-    |- metadata.csv
+    ISIC/
+    ├── train/
+    ├── test/
+    ├── results_eval/
+    └── metadata.csv
  ]
 
 -> Como Executar os Notebooks
