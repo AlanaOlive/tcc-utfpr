@@ -84,4 +84,4 @@ Os resultados gerados pela execução e avaliação deste projeto ficam salvos n
 
 -> Licença
 
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença CC0-1.0 - veja o arquivo LICENSE para mais detalhes.
