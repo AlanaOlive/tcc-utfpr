@@ -48,19 +48,18 @@ Instale as dependências necessárias contidas no arquivo \code\Codigo_treinamen
 -> Configuração dos Dados
 
  Faça o download do dataset no link [https://api.isic-archive.com/collections/68/] e em seguida monte o drive com a seguinte organização de pastas:
- 
- [ 
+  
     ISIC/
     ├── train/
     ├── test/
     ├── results_eval/
     └── metadata.csv
- ]
+ 
 
 -> Como Executar os Notebooks
 
 Codigo_treinamento.ipynb: 
-[
+
     1. Instalação de dependências
     2. Imports e acesso ao drive
     3. Processamento
@@ -73,17 +72,16 @@ Codigo_treinamento.ipynb:
     12. Fine Tunning fase 3: Aumento de camadas disponíveis para treinamento.
 
     As etapas 8 e 9 somente devem ser executadas em caso de interrupção do treinamento.
-].
 
 02_treinamento_do_modelo.ipynb: [Ex: Carrega os dados processados, treina os algoritmos selecionados e salva os pesos do melhor modelo na pasta models/].
 
 Avaliacao_TCC2_inferencia.ipynb: [
     Setup → Parte A (auditoria, só CPU) → Parte B (inferência, GPU) → Parte C (métricas) → Parte D (figuras) → Parte E (erros) → Parte F (registro da execução).].
 
-📈 Resultados e Conclusões
+-> Resultados e Conclusões
 
 Os resultados gerados pela execução e avaliação deste projeto ficam salvos na pasta resultados/*.
 
-📄 Licença
+-> Licença
 
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
