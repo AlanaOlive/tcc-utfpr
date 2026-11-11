@@ -14,7 +14,7 @@ No conjunto de teste (2269 imagens, 62 malignas), a regra de decisão por argmax
 com Test-Time Augmentation obteve sensibilidade de 56,5% (35 de 62), precisão de
 10,3%, especificidade de 86,2%, AUC-ROC de 0,79 e AUC-PR de 0.135 diante de uma
 prevalência de 2,7%. Limiares escolhidos por validação cruzada em duas metades
-do teste elevaram a sensibilidade a 72,6% (meta de 0,80), ao custo de precis˜ao de
+do teste elevaram a sensibilidade a 72,6% (meta de 0,80), ao custo de precisão de
 6,1% e 688 falsos positivos. A análise também identificou limitações que restringem
 a generalização: todos os pacientes do teste possuem imagens no treino e o próprio
 teste foi usado para seleção de checkpoint. Os resultados indicam um compromisso
@@ -36,12 +36,10 @@ Git
 
 -> Instalação e Configuração do Ambiente
 
-Para garantir que o experimento rode sem problemas de conflito de versões, recomendamos o uso de um ambiente virtual.
-
 Clone este repositório:
 
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+cd tcc-utfpr
 
 Instale as dependências necessárias contidas no arquivo \code\Codigo_treinamento_modelo.ipynb
 
