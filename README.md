@@ -71,14 +71,12 @@ Codigo_treinamento.ipynb:
 
     As etapas 8 e 9 somente devem ser executadas em caso de interrupção do treinamento.
 
-02_treinamento_do_modelo.ipynb: [Ex: Carrega os dados processados, treina os algoritmos selecionados e salva os pesos do melhor modelo na pasta models/].
-
 Avaliacao_TCC2_inferencia.ipynb: [
     Setup → Parte A (auditoria, só CPU) → Parte B (inferência, GPU) → Parte C (métricas) → Parte D (figuras) → Parte E (erros) → Parte F (registro da execução).].
 
 -> Resultados e Conclusões
 
-Os resultados gerados pela execução e avaliação deste projeto ficam salvos na pasta resultados/*.
+Os resultados gerados pela execução e avaliação deste projeto ficam salvos na pasta results/*.
 
 -> Licença
 
